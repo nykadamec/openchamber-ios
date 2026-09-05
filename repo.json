@@ -22,9 +22,9 @@
           "version": "1.1",
           "buildVersion": "4",
           "date": "2026-09-05",
-          "localizedDescription": "Revert composer na box + unsigned IPA build.",
+          "localizedDescription": "Nový redesign UI + unsigned IPA build.",
           "downloadURL": "https://github.com/nykadamec/openchamber-ios/releases/download/v1.1-build4/OpenChamber.ipa",
-          "size": 17051372,
+          "size": 17052215,
           "minOSVersion": "16.0",
           "appPermissions": {}
         }
