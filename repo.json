@@ -1,0 +1,34 @@
+{
+  "name": "OpenChamber",
+  "identifier": "com.openchamber.source",
+  "subtitle": "OpenChamber iOS buildy pro sideload",
+  "description": "Oficiální zdroj OpenChamber IPA pro KSign/Feather. Unsigned build – vyžaduje re-sign na zařízení.",
+  "iconURL": "https://raw.githubusercontent.com/nykadamec/openchamber-ios/main/icon.png",
+  "headerURL": null,
+  "website": "https://github.com/nykadamec/openchamber-ios",
+  "tintColor": "3c94fc",
+  "apps": [
+    {
+      "name": "OpenChamber",
+      "bundleIdentifier": "com.openchamber.app",
+      "developerName": "OpenChamber",
+      "subtitle": "OpenChamber pro iOS (sideload)",
+      "localizedDescription": "Unsigned IPA pro sideload. Před instalací vyžaduje re-sign v KSign/Feather (vlastní certifikát).",
+      "iconURL": "https://raw.githubusercontent.com/nykadamec/openchamber-ios/main/icon.png",
+      "tintColor": "3c94fc",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "4",
+          "date": "2026-09-05",
+          "localizedDescription": "Revert composer na box + unsigned IPA build.",
+          "downloadURL": "https://github.com/nykadamec/openchamber-ios/releases/download/v1.1-build4/OpenChamber.ipa",
+          "size": 17051372,
+          "minOSVersion": "16.0",
+          "appPermissions": {}
+        }
+      ]
+    }
+  ]
+}
