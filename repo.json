@@ -19,6 +19,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.1.2",
+          "buildVersion": "4",
+          "date": "2026-09-05",
+          "localizedDescription": "Oprava klikací vrstvy chipů + Přesto napsat ikona.",
+          "downloadURL": "https://github.com/nykadamec/openchamber-ios/releases/download/v1.1.2-build4/OpenChamber.ipa",
+          "size": 17052239,
+          "minOSVersion": "16.0",
+          "appPermissions": {}
+        },
+        {
           "version": "1.1.1",
           "buildVersion": "4",
           "date": "2026-09-05",
